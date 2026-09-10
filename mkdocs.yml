@@ -1,0 +1,117 @@
+site_name: تعاونی مسکن نخبگان استان تهران
+site_description: پایگاه اطلاع‌رسانی و خدمات الکترونیکی تعاونی مسکن نخبگان استان تهران
+site_author: تعاونی مسکن نخبگان استان تهران
+copyright: کلیه حقوق این پایگاه برای تعاونی مسکن نخبگان استان تهران محفوظ است.
+
+site_url: https://m-zakeri.github.io/fhc
+
+theme:
+  name: material
+  language: fa
+  direction: rtl
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.svg
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: تغییر به پوسته تیره
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: تغییر به پوسته روشن
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+    - content.tabs.link
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      title: فهرست مطالب
+
+extra_css:
+  - assets/stylesheets/extra.css
+extra_javascript:
+  - assets/javascripts/extra.js
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@example.ir
+      name: رایانامه تعاونی
+  generator: false
+
+nav:
+  - خانه: index.md
+  - درباره تعاونی:
+      - معرفی تعاونی: about/index.md
+      - مأموریت، چشم‌انداز و ارزش‌ها: about/mission.md
+      - ساختار سازمانی: about/structure.md
+  - ارکان تعاونی:
+      - هیئت مؤسس: governance/founders.md
+      - هیئت مدیره: governance/board.md
+      - مدیرعامل: governance/ceo.md
+      - بازرس / بازرسان: governance/inspectors.md
+      - پروفایل‌های اعضای هیئت مدیره:
+          - عضو ۱ هیئت مدیره: governance/profiles/board-member-1.md
+          - عضو ۲ هیئت مدیره: governance/profiles/board-member-2.md
+          - عضو ۳ هیئت مدیره: governance/profiles/board-member-3.md
+          - مدیرعامل نمونه: governance/profiles/ceo.md
+  - عضویت و خدمات:
+      - راهنمای عضویت: membership/index.md
+      - فرایند و مدارک: membership/process.md
+      - خدمات اعضا: services/index.md
+      - فرم‌ها و مدارک: forms/index.md
+      - پرسش‌های متداول: faq.md
+  - پروژه‌ها و تأمین مسکن:
+      - پروژه‌های مسکن: projects/index.md
+      - پروژه نمونه: projects/project-template.md
+      - روش‌های نوین ساخت و تأمین مسکن: housing-methods/index.md
+  - اخبار و اطلاعیه‌ها:
+      - آخرین اخبار و اطلاعیه‌ها: news/index.md
+      - خبر نمونه ۱: news/sample-news-1.md
+      - اطلاعیه نمونه ۱: news/sample-notice-1.md
+  - مجامع و اسناد:
+      - مجامع عمومی: assemblies/index.md
+      - قوانین، اساسنامه و آیین‌نامه‌ها: regulations/index.md
+      - شفافیت و گزارش‌ها: transparency/index.md
+      - مناقصات و فراخوان‌ها: tenders/index.md
+  - تماس با ما: contact/index.md
