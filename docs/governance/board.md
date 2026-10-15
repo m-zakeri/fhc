@@ -1,43 +1,43 @@
 # هیئت مدیره
 
-ترکیب زیر کاملاً نمونه است و برای نمایش ساختار صفحه طراحی شده است. هر کارت به یک صفحه شخصی نمونه پیوند دارد.
+ 
 
 <div class="people-grid" markdown>
 <div class="person-card" markdown>![عضو ۱](../assets/images/people/person-1.svg)
-### عضو ۱ هیئت مدیره
-<span class="role">رئیس هیئت مدیره — نمونه</span>
+### محمد ایرانی
+<span class="role">رئیس هیئت مدیره </span>
 
-حوزه نمونه: راهبری، سیاست‌گذاری و تعاملات نهادی.
+حوزه  : راهبری، سیاست‌گذاری و تعاملات نهادی.
 
 [صفحه شخصی نمونه](profiles/board-member-1.md){ .md-button }
 </div>
 <div class="person-card" markdown>![عضو ۲](../assets/images/people/person-2.svg)
-### عضو ۲ هیئت مدیره
-<span class="role">نایب‌رئیس — نمونه</span>
-
-حوزه نمونه: برنامه‌ریزی پروژه، ساخت و کنترل کیفیت.
+### عباس راد
+<span class="role">نایب‌رئیس </span>
+حوزه  : مالی، قراردادها و گزارش‌دهی.
 
 [صفحه شخصی نمونه](profiles/board-member-2.md){ .md-button }
 </div>
 <div class="person-card" markdown>![عضو ۳](../assets/images/people/person-3.svg)
-### عضو ۳ هیئت مدیره
-<span class="role">منشی — نمونه</span>
-
-حوزه نمونه: مالی، قراردادها و گزارش‌دهی.
+### مرتضی ذاکری
+<span class="role">منشی </span>
+حوزه نمونه: امور اعضا و ارتباطات دانشگاهی.
+ 
 
 [صفحه شخصی نمونه](profiles/board-member-3.md){ .md-button }
 </div>
 <div class="person-card" markdown>![عضو ۴](../assets/images/people/person-4.svg)
-### عضو ۴ هیئت مدیره
-<span class="role">عضو اصلی — نمونه</span>
+### علی عسکری
+<span class="role">عضو اصلی </span>
 
-حوزه نمونه: امور حقوقی و مدیریت ریسک.
+حوزه : امور حقوقی و مدیریت ریسک.
 </div>
 <div class="person-card" markdown>![عضو ۵](../assets/images/people/person-5.svg)
-### عضو ۵ هیئت مدیره
-<span class="role">عضو اصلی — نمونه</span>
+### جلال الدین فرجی
+<span class="role">عضو اصلی  </span>
+حوزه : برنامه‌ریزی پروژه، ساخت و کنترل کیفیت.
 
-حوزه نمونه: امور اعضا و ارتباطات دانشگاهی.
+
 </div>
 </div>
 

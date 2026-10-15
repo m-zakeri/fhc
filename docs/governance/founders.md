@@ -4,21 +4,21 @@
 
 <div class="people-grid" markdown>
 <div class="person-card" markdown>![عضو مؤسس ۱](../assets/images/people/person-5.svg)
-### عضو ۱ هیئت مؤسس
-<span class="role">عضو هیئت مؤسس — نمونه</span>
+### مرتضی ذاکری
+<span class="role"> عضو و نماینده هیئت مؤسس</span>
 
-عضو هیئت علمی دانشگاه دولتی شهر تهران؛ حوزه تخصص نمونه: مدیریت پروژه و سیاست‌گذاری فناوری.
+عضو هیئت علمی دانشگاه دولتی شهر تهران؛ حوزه تخصص : مهندسی کامپیوتر.
 </div>
 <div class="person-card" markdown>![عضو مؤسس ۲](../assets/images/people/person-6.svg)
-### عضو ۲ هیئت مؤسس
-<span class="role">عضو هیئت مؤسس — نمونه</span>
+### عطا اله پورمحمود
+<span class="role">عضو هیئت مؤسس  </span>
 
-عضو هیئت علمی؛ حوزه تخصص نمونه: اقتصاد مهندسی و تأمین مالی پروژه‌های عمرانی.
+عضو هیئت علمی؛ حوزه تخصص: مهندسی هوا و فضا
 </div>
 <div class="person-card" markdown>![عضو مؤسس ۳](../assets/images/people/person-7.svg)
-### عضو ۳ هیئت مؤسس
-<span class="role">عضو هیئت مؤسس — نمونه</span>
+### هانیه سیری
+<span class="role">عضو هیئت مؤسس  </span>
 
-عضو هیئت علمی؛ حوزه تخصص نمونه: حقوق قراردادها و ساختارهای تعاونی.
+عضو هیئت علمی؛ حوزه تخصص : زبان و ادبیات انگلیسی.
 </div>
 </div>
