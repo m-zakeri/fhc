@@ -14,7 +14,7 @@ hide:
 <div class="coop-actions" markdown>
 [راهنمای عضویت](membership/index.md){ .md-button .md-button--primary }
 [پروژه‌های مسکن](projects/index.md){ .md-button }
-[اخبار و اطلاعیه‌ها](news/index.md){ .md-button }
+[اخبار و اطلاعیه‌ها](blog/index.md){ .md-button }
 </div>
 </div>
 
@@ -23,7 +23,7 @@ hide:
 </div>
 
 <div class="coop-notice" markdown>
-**نسخه نمایشی:** نام اشخاص، تصاویر، شماره‌های تماس، آمار، پروژه‌ها و اسناد این بسته نمونه هستند و باید پیش از انتشار رسمی با اطلاعات مصوب تعاونی جایگزین شوند.
+**نسخه آزمایشی:** نسخه آزمایشی وب سایت تعاونی مسکن بنیاد نخبگان استان تهران
 </div>
 
 ## دسترسی سریع
@@ -50,7 +50,7 @@ hide:
 ### اخبار و اطلاعیه‌ها
 اطلاعیه مجامع، فراخوان‌ها، گزارش پیشرفت و خبرهای اجرایی.
 
-[آخرین خبرها](news/index.md)
+[آخرین خبرها](blog/index.md)
 </div>
 <div class="coop-card" markdown><span class="coop-icon">05</span>
 ### شفافیت و گزارش‌ها
