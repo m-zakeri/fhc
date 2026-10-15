@@ -5,7 +5,7 @@
 <div class="people-grid" markdown>
 <div class="person-card" markdown>![عضو مؤسس ۱](../assets/images/people/person-5.svg)
 ### مرتضی ذاکری
-<span class="role"> عضو و نماینده هیئت مؤسس</span>
+<span class="role"> نماینده هیئت مؤسس</span>
 
 عضو هیئت علمی - دانشگاه صنعتی امیرکبیر؛ حوزه تخصص : مهندسی کامپیوتر.
 </div>

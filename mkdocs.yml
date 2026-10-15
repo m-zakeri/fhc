@@ -100,10 +100,10 @@ nav:
       - مدیرعامل: governance/ceo.md
       - بازرس / بازرسان: governance/inspectors.md
       - پروفایل‌های اعضای هیئت مدیره:
-          - عضو ۱ هیئت مدیره: governance/profiles/board-member-1.md
-          - عضو ۲ هیئت مدیره: governance/profiles/board-member-2.md
-          - عضو ۳ هیئت مدیره: governance/profiles/board-member-3.md
-          - مدیرعامل نمونه: governance/profiles/ceo.md
+          - رئیس هیئت مدیره: governance/profiles/board-member-1.md
+          - نائب رئیس هیئت مدیره: governance/profiles/board-member-2.md
+          - منشی هیئت مدیره: governance/profiles/board-member-3.md
+          - مدیرعامل: governance/profiles/ceo.md
   - عضویت و خدمات:
       - راهنمای عضویت: membership/index.md
       - فرایند و مدارک: membership/process.md
