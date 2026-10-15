@@ -1,4 +1,5 @@
-# جلال الدین فرجی
+# عضو هیئت مدیره
+
 <div class="profile-header" markdown>
 ![عضو ۳ هیئت مدیره](../../assets/images/people/person-3.svg)
 <div markdown>

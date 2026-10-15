@@ -1,10 +1,11 @@
-# مرتضی ذاکری
+# منشی هیئت مدیره
+
 <div class="profile-header" markdown>
 ![عضو ۳ هیئت مدیره](../../assets/images/people/person-3.svg)
 <div markdown>
 # مرتضی ذاکری
 **منشی هیئت مدیره**  
-<span class="badge">پروفایل  </span>
+<span class="badge"> [صفحه شخصی](https://m-zakeri.ir) </span>
 
 این صفحه برای نمایش قالب پروفایل اعضای ارکان تعاونی طراحی شده است.
 </div>

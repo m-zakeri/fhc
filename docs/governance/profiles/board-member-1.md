@@ -1,4 +1,4 @@
-# محمد ایرانی 
+# رئیس هیئت مدیره 
 <div class="profile-header" markdown>
 ![عضو ۱ هیئت مدیره](../../assets/images/people/person-1.svg)
 <div markdown>
