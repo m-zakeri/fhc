@@ -7,21 +7,23 @@
 ### محمد ایرانی
 <span class="role">رئیس هیئت مدیره </span>
 
-حوزه  : راهبری، سیاست‌گذاری و تعاملات نهادی.
+حوزه: راهبری، سیاست‌گذاری و تعاملات نهادی.
 
 [صفحه شخصی نمونه](profiles/board-member-1.md){ .md-button }
 </div>
 <div class="person-card" markdown>![عضو ۲](../assets/images/people/person-2.svg)
 ### عباس راد
 <span class="role">نایب‌رئیس </span>
-حوزه  : مالی، قراردادها و گزارش‌دهی.
+
+حوزه: مالی، قراردادها و گزارش‌دهی.
 
 [صفحه شخصی نمونه](profiles/board-member-2.md){ .md-button }
 </div>
 <div class="person-card" markdown>![عضو ۳](../assets/images/people/person-3.svg)
 ### مرتضی ذاکری
 <span class="role">منشی </span>
-حوزه نمونه: امور اعضا و ارتباطات دانشگاهی.
+
+حوزه: امور اعضا و ارتباطات دانشگاهی.
  
 
 [صفحه شخصی نمونه](profiles/board-member-3.md){ .md-button }
@@ -30,7 +32,7 @@
 ### علی عسکری
 <span class="role">عضو اصلی </span>
 
-حوزه : امور حقوقی و مدیریت ریسک.
+حوزه : معماری و مدیریت ریسک.
 </div>
 <div class="person-card" markdown>![عضو ۵](../assets/images/people/person-5.svg)
 ### جلال الدین فرجی
