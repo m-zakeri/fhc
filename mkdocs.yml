@@ -55,8 +55,6 @@ plugins:
 
   - social
 
-  - optimize
-
 
 markdown_extensions:
   - admonition
