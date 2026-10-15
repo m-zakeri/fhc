@@ -68,10 +68,10 @@ hide:
 
 ## شاخص‌های نمونه
 <div class="coop-statbar" markdown>
-<div class="coop-stat"><strong>۱۲۵</strong><span>عضو نمونه</span></div>
-<div class="coop-stat"><strong>۳</strong><span>پروژه نمونه</span></div>
-<div class="coop-stat"><strong>۲۴۰</strong><span>واحد در برنامه نمونه</span></div>
-<div class="coop-stat"><strong>۳۵٪</strong><span>پیشرفت نمونه پروژه اصلی</span></div>
+<div class="coop-stat"><strong>2000</strong><span>عضو </span></div>
+<div class="coop-stat"><strong>2</strong><span>پروژه </span></div>
+<div class="coop-stat"><strong>2000</strong><span>واحد در برنامه </span></div>
+<div class="coop-stat"><strong>10٪</strong><span>پیشرفت  پروژه اصلی</span></div>
 </div>
 
 ## اصول راهنما
