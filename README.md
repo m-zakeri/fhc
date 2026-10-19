@@ -28,3 +28,5 @@ mkdocs build --strict
 - فونت رابط با خانواده `Vazirmatn / Vazir` تنظیم شده و از Google Fonts بارگذاری می‌شود؛ فایل فونت در بسته قرار ندارد.
 - برای GitHub Pages، فایل workflow در `.github/workflows/deploy.yml` آماده است.
 - فایل `docs/assets/images/logo-emblem.png` نمونه تصویری لوگو و `logo.svg` نسخه سبک و مناسب هدر سایت است.
+
+پایان
