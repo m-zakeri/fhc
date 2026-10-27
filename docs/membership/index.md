@@ -16,13 +16,18 @@
 
 
 ## مسیر ثبت درخواست
+لطفاً گام به گام این مسیر را طی نمایید.
+
+
 <div class="timeline" markdown>
 <div markdown>
 **۱. ثبت درخواست اولیه** — تکمیل فرم و اطلاعات تماس.
-[ فرم ثبت نام اولیه ](https://forms.gle/qMf4mGzXJ2VRsg499){ .md-button .md-button--primary } 
+<div markdown> [ فرم ثبت نام اولیه ](https://forms.gle/qMf4mGzXJ2VRsg499){ .md-button .md-button--primary } </div>
 </div>
 <div markdown>**۲. تحویل مدارک** — مدارک هویتی، محضری، دانشگاهی و مستندات مورد نیاز.
+<div markdown>
 به صورت حضوری در محل دفتر تعاونی تحویل گرفته می شود. 
+</div>
 </div>
 <div markdown>
 **۳. بررسی شرایط** — کنترل مدارک توسط واحد عضویت.
@@ -34,5 +39,5 @@
 </div>
 
 
-[مشاهده مدارک و فرایند](process.md){ .md-button .md-button--primary }
+[مشاهده فرایند تحویل مدارک](process.md){ .md-button .md-button--primary }
 
