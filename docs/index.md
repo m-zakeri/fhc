@@ -15,7 +15,7 @@ hide:
 [راهنمای عـضویت](membership/index.md){ .md-button .md-button--primary }
 [پروژه‌های مسـکن](projects/index.md){ .md-button }
 [اخبار و اطلاعیه‌ها](blog/index.md){ .md-button }
-[ گروه بله  ](https://ble.ir/join/Ewb9QrFqyL){ .md-button .md-button}
+[ گروه اعضا در بله  ](https://ble.ir/join/Ewb9QrFqyL){ .md-button .md-button--primary}
 </div>
 </div>
 
