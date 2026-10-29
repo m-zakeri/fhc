@@ -12,9 +12,10 @@ hide:
 تعاونی مسکن نخبگان استان تهران با هدف سامان‌دهی ظرفیت‌های جمعی برای **ساخت، تأمین و توزیع مسکن اعضای هیئت علمی دانشگاه‌های دولتی شهر تهران** شکل گرفته است و در این قالب، حمایت **بنیاد ملی نخبگان** و نظارت مستقیم **بنیاد نخبگان استان تهران** به‌عنوان چارچوب معرفی تعاونی درج شده است.
 
 <div class="coop-actions" markdown>
-[راهنمای عضویت](membership/index.md){ .md-button .md-button--primary }
-[پروژه‌های مسکن](projects/index.md){ .md-button }
+[راهنمای عـضویت](membership/index.md){ .md-button .md-button--primary }
+[پروژه‌های مسـکن](projects/index.md){ .md-button }
 [اخبار و اطلاعیه‌ها](blog/index.md){ .md-button }
+[ گروه بله  ](https://ble.ir/join/Ewb9QrFqyL){ .md-button .md-button}
 </div>
 </div>
 

@@ -23,6 +23,8 @@
 <div markdown>
 **۱. ثبت درخواست اولیه** — تکمیل فرم و اطلاعات تماس.
 <div markdown> [ فرم ثبت نام اولیه ](https://forms.gle/qMf4mGzXJ2VRsg499){ .md-button .md-button--primary } </div>
+<div markdown> [ راهنمایی بیشتر در گروه بله ](https://ble.ir/join/Ewb9QrFqyL){ .md-button .md-button} </div>
+
 </div>
 <div markdown>**۲. تحویل مدارک** — مدارک هویتی، محضری، دانشگاهی و مستندات مورد نیاز.
 <div markdown>
